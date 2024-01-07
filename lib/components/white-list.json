@@ -1,0 +1,12 @@
+{
+  "licenses": [
+    "Apache", 
+    "MIT", 
+    "BSD",  
+    "zlib",
+    "BoringSSL"
+  ],
+  "libraries": [
+    "PrivateLibrary-Hoge"
+  ]
+}
